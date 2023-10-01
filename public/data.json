@@ -6,7 +6,7 @@
       "author": "John Doe",
       "author-img": "https://unsplash.com/@your-username-1",
       "posted date": "2023-10-01",
-      "reading time": "15 minutes",
+      "reading time": 15,
       "hashtags": ["AI", "machine learning", "data science"]
     },
     {
@@ -16,7 +16,7 @@
       "author": "Jane Smith",
       "author-img": "https://unsplash.com/@your-username-2",
       "posted date": "2023-09-28",
-      "reading time": "20 minutes",
+      "reading time": 20,
       "hashtags": ["blockchain", "cryptocurrency", "digital currency"]
     },
     {
@@ -26,7 +26,7 @@
       "author": "Maria Rossi",
       "author-img": "https://unsplash.com/@your-username-3",
       "posted date": "2023-09-25",
-      "reading time": "30 minutes",
+      "reading time": 30,
       "hashtags": ["web development", "HTML", "CSS"]
     },
     {
@@ -36,7 +36,7 @@
       "author": "David Johnson",
       "author-img": "https://unsplash.com/@your-username-4",
       "posted date": "2023-09-20",
-      "reading time": "25 minutes",
+      "reading time": 25,
       "hashtags": ["cybersecurity", "online safety", "hacking"]
     },
     {
@@ -46,7 +46,7 @@
       "author": "Emily Brown",
       "author-img": "https://unsplash.com/@your-username-5",
       "posted date": "2023-09-15",
-      "reading time": "40 minutes",
+      "reading time": 40,
       "hashtags": ["tech trends", "innovation", "emerging tech"]
     },
     {
@@ -56,7 +56,7 @@
       "author": "Michael Clark",
       "author-img": "https://unsplash.com/@your-username-6",
       "posted date": "2023-09-10",
-      "reading time": "18 minutes",
+      "reading time": 18,
       "hashtags": ["coding", "programming", "archeology"]
     },
     {
@@ -66,7 +66,7 @@
       "author": "Sarah Green",
       "author-img": "https://unsplash.com/@your-username-7",
       "posted date": "2023-09-05",
-      "reading time": "22 minutes",
+      "reading time": 22,
       "hashtags": ["data science", "analytics", "big data"]
     },
     {
@@ -76,7 +76,7 @@
       "author": "Robert Williams",
       "author-img": "https://unsplash.com/@your-username-8",
       "posted date": "2023-09-01",
-      "reading time": "15 minutes",
+      "reading time": 15,
       "hashtags": ["technology", "future tech", "innovation"]
     },
     {
@@ -86,7 +86,7 @@
       "author": "Jennifer Lee",
       "author-img": "https://unsplash.com/@your-username-9",
       "posted date": "2023-08-28",
-      "reading time": "35 minutes",
+      "reading time": 35,
       "hashtags": ["coding", "health", "mindfulness"]
     }
   ]
