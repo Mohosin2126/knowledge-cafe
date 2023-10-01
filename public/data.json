@@ -1,0 +1,93 @@
+[
+    {
+      "id": "1",
+      "cover": "https://example.com/cover1.jpg",
+      "title": "The Secret of the Enchanted Forest",
+      "author": "John Doe",
+      "author-img": "https://example.com/author1.jpg",
+      "posted date": "2023-10-01",
+      "reading time": "15 minutes",
+      "hashtags": ["fantasy", "adventure", "magic"]
+    },
+    {
+      "id": "2",
+      "cover": "https://example.com/cover2.jpg",
+      "title": "Exploring the Unknown Galaxy",
+      "author": "Jane Smith",
+      "author-img": "https://example.com/author2.jpg",
+      "posted date": "2023-09-28",
+      "reading time": "20 minutes",
+      "hashtags": ["science fiction", "space", "exploration"]
+    },
+    {
+      "id": "3",
+      "cover": "https://example.com/cover3.jpg",
+      "title": "Cooking Masterclass: Italian Cuisine",
+      "author": "Maria Rossi",
+      "author-img": "https://example.com/author3.jpg",
+      "posted date": "2023-09-25",
+      "reading time": "30 minutes",
+      "hashtags": ["cooking", "Italian", "recipes"]
+    },
+    {
+      "id": "4",
+      "cover": "https://example.com/cover4.jpg",
+      "title": "The Art of Photography",
+      "author": "David Johnson",
+      "author-img": "https://example.com/author4.jpg",
+      "posted date": "2023-09-20",
+      "reading time": "25 minutes",
+      "hashtags": ["photography", "art", "creativity"]
+    },
+    {
+      "id": "5",
+      "cover": "https://example.com/cover5.jpg",
+      "title": "Financial Freedom: A Guide to Wealth",
+      "author": "Emily Brown",
+      "author-img": "https://example.com/author5.jpg",
+      "posted date": "2023-09-15",
+      "reading time": "40 minutes",
+      "hashtags": ["finance", "investing", "wealth"]
+    },
+    {
+      "id": "6",
+      "cover": "https://example.com/cover6.jpg",
+      "title": "The Mystery of Ancient Civilizations",
+      "author": "Michael Clark",
+      "author-img": "https://example.com/author6.jpg",
+      "posted date": "2023-09-10",
+      "reading time": "18 minutes",
+      "hashtags": ["history", "archeology", "mysteries"]
+    },
+    {
+      "id": "7",
+      "cover": "https://example.com/cover7.jpg",
+      "title": "Gardening Tips for All Seasons",
+      "author": "Sarah Green",
+      "author-img": "https://example.com/author7.jpg",
+      "posted date": "2023-09-05",
+      "reading time": "22 minutes",
+      "hashtags": ["gardening", "tips", "seasons"]
+    },
+    {
+      "id": "8",
+      "cover": "https://example.com/cover8.jpg",
+      "title": "Tech Trends of the Future",
+      "author": "Robert Williams",
+      "author-img": "https://example.com/author8.jpg",
+      "posted date": "2023-09-01",
+      "reading time": "15 minutes",
+      "hashtags": ["technology", "future", "innovation"]
+    },
+    {
+      "id": "9",
+      "cover": "https://example.com/cover9.jpg",
+      "title": "Healthy Living: Mind and Body",
+      "author": "Jennifer Lee",
+      "author-img": "https://example.com/author9.jpg",
+      "posted date": "2023-08-28",
+      "reading time": "35 minutes",
+      "hashtags": ["health", "wellness", "mindfulness"]
+    }
+  ]
+  
