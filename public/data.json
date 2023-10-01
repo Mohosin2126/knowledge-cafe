@@ -1,93 +1,93 @@
 [
     {
       "id": "1",
-      "cover": "https://example.com/cover1.jpg",
-      "title": "The Secret of the Enchanted Forest",
+      "cover": "https://i.ibb.co/VN3fs1s/robotics.webp",
+      "title": "The World of Artificial Intelligence",
       "author": "John Doe",
-      "author-img": "https://example.com/author1.jpg",
+      "author-img": "https://unsplash.com/@your-username-1",
       "posted date": "2023-10-01",
       "reading time": "15 minutes",
-      "hashtags": ["fantasy", "adventure", "magic"]
+      "hashtags": ["AI", "machine learning", "data science"]
     },
     {
       "id": "2",
-      "cover": "https://example.com/cover2.jpg",
-      "title": "Exploring the Unknown Galaxy",
+      "cover": "https://i.ibb.co/xmpfj9z/Untitled-f7d57b911c0ea0d188e7db697c0fc7f8.png",
+      "title": "Blockchain and Cryptocurrency Explained",
       "author": "Jane Smith",
-      "author-img": "https://example.com/author2.jpg",
+      "author-img": "https://unsplash.com/@your-username-2",
       "posted date": "2023-09-28",
       "reading time": "20 minutes",
-      "hashtags": ["science fiction", "space", "exploration"]
+      "hashtags": ["blockchain", "cryptocurrency", "digital currency"]
     },
     {
       "id": "3",
-      "cover": "https://example.com/cover3.jpg",
-      "title": "Cooking Masterclass: Italian Cuisine",
+      "cover": "https://i.ibb.co/7v16qKw/1694551981145.png",
+      "title": "Web Development: Mastering the Art",
       "author": "Maria Rossi",
-      "author-img": "https://example.com/author3.jpg",
+      "author-img": "https://unsplash.com/@your-username-3",
       "posted date": "2023-09-25",
       "reading time": "30 minutes",
-      "hashtags": ["cooking", "Italian", "recipes"]
+      "hashtags": ["web development", "HTML", "CSS"]
     },
     {
       "id": "4",
-      "cover": "https://example.com/cover4.jpg",
-      "title": "The Art of Photography",
+      "cover": "https://i.ibb.co/P91c2vS/76069623.webp",
+      "title": "The Cybersecurity Handbook",
       "author": "David Johnson",
-      "author-img": "https://example.com/author4.jpg",
+      "author-img": "https://unsplash.com/@your-username-4",
       "posted date": "2023-09-20",
       "reading time": "25 minutes",
-      "hashtags": ["photography", "art", "creativity"]
+      "hashtags": ["cybersecurity", "online safety", "hacking"]
     },
     {
       "id": "5",
-      "cover": "https://example.com/cover5.jpg",
-      "title": "Financial Freedom: A Guide to Wealth",
+      "cover": "https://i.ibb.co/hVhb67J/0x0.webp",
+      "title": "The Future of Technology: Trends to Watch",
       "author": "Emily Brown",
-      "author-img": "https://example.com/author5.jpg",
+      "author-img": "https://unsplash.com/@your-username-5",
       "posted date": "2023-09-15",
       "reading time": "40 minutes",
-      "hashtags": ["finance", "investing", "wealth"]
+      "hashtags": ["tech trends", "innovation", "emerging tech"]
     },
     {
       "id": "6",
-      "cover": "https://example.com/cover6.jpg",
-      "title": "The Mystery of Ancient Civilizations",
+      "cover": "https://i.ibb.co/F6zPjvk/Code-Crypt-Deciphering-the-Ancient-Scripts-with-Python.jpg",
+      "title": "Coding Archaeology: Exploring Ancient Code",
       "author": "Michael Clark",
-      "author-img": "https://example.com/author6.jpg",
+      "author-img": "https://unsplash.com/@your-username-6",
       "posted date": "2023-09-10",
       "reading time": "18 minutes",
-      "hashtags": ["history", "archeology", "mysteries"]
+      "hashtags": ["coding", "programming", "archeology"]
     },
     {
       "id": "7",
-      "cover": "https://example.com/cover7.jpg",
-      "title": "Gardening Tips for All Seasons",
+      "cover": "https://i.ibb.co/RgpzdDb/data-science-projects.jpg",
+      "title": "Data Science for All Seasons",
       "author": "Sarah Green",
-      "author-img": "https://example.com/author7.jpg",
+      "author-img": "https://unsplash.com/@your-username-7",
       "posted date": "2023-09-05",
       "reading time": "22 minutes",
-      "hashtags": ["gardening", "tips", "seasons"]
+      "hashtags": ["data science", "analytics", "big data"]
     },
     {
       "id": "8",
-      "cover": "https://example.com/cover8.jpg",
-      "title": "Tech Trends of the Future",
+      "cover": "https://i.ibb.co/9yKz38F/thumb-gettyimages-829563232.webp",
+      "title": "Tech Trends of Tomorrow",
       "author": "Robert Williams",
-      "author-img": "https://example.com/author8.jpg",
+      "author-img": "https://unsplash.com/@your-username-8",
       "posted date": "2023-09-01",
       "reading time": "15 minutes",
-      "hashtags": ["technology", "future", "innovation"]
+      "hashtags": ["technology", "future tech", "innovation"]
     },
     {
       "id": "9",
-      "cover": "https://example.com/cover9.jpg",
-      "title": "Healthy Living: Mind and Body",
+      "cover": "https://i.ibb.co/R6DsMDg/AI-20230215-new-module-1200x580.jpg",
+      "title": "Mindful Coding: Balancing Health and Tech",
       "author": "Jennifer Lee",
-      "author-img": "https://example.com/author9.jpg",
+      "author-img": "https://unsplash.com/@your-username-9",
       "posted date": "2023-08-28",
       "reading time": "35 minutes",
-      "hashtags": ["health", "wellness", "mindfulness"]
+      "hashtags": ["coding", "health", "mindfulness"]
     }
   ]
   
