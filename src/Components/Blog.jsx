@@ -2,7 +2,7 @@
 
 
 
-const Blog = ({blog}) => {
+const Blog = ({blog,handledBookmarks}) => {
     const {id,cover,title,author,author_img,posted_date,reading_time,hashtags}=blog
    
     return (
@@ -21,7 +21,7 @@ const Blog = ({blog}) => {
                 </div>
                 <div className="flex justify-center items-center gap-5">
 <p>{reading_time} min read </p>
-<img src="https://i.ibb.co/3083XPy/Frame.png" alt="" />
+<img onClick={handledBookmarks}   src="https://i.ibb.co/3083XPy/Frame.png" alt="" />
                 </div>
             </div>
             <p className="text-4xl font-semibold ">{title}</p>
