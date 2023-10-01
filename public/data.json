@@ -4,9 +4,9 @@
       "cover": "https://i.ibb.co/VN3fs1s/robotics.webp",
       "title": "The World of Artificial Intelligence",
       "author": "John Doe",
-      "author-img": "https://unsplash.com/@your-username-1",
-      "posted date": "2023-10-01",
-      "reading time": 15,
+      "author_img": "https://unsplash.com/@your-username-1",
+      "posted_date": "2023-10-01",
+      "reading_time": 15,
       "hashtags": ["AI", "machine learning", "data science"]
     },
     {
@@ -14,9 +14,9 @@
       "cover": "https://i.ibb.co/xmpfj9z/Untitled-f7d57b911c0ea0d188e7db697c0fc7f8.png",
       "title": "Blockchain and Cryptocurrency Explained",
       "author": "Jane Smith",
-      "author-img": "https://unsplash.com/@your-username-2",
-      "posted date": "2023-09-28",
-      "reading time": 20,
+      "author_img": "https://unsplash.com/@your-username-2",
+      "posted_date": "2023-09-28",
+      "reading_time": 20,
       "hashtags": ["blockchain", "cryptocurrency", "digital currency"]
     },
     {
@@ -24,9 +24,9 @@
       "cover": "https://i.ibb.co/7v16qKw/1694551981145.png",
       "title": "Web Development: Mastering the Art",
       "author": "Maria Rossi",
-      "author-img": "https://unsplash.com/@your-username-3",
-      "posted date": "2023-09-25",
-      "reading time": 30,
+      "author_img": "https://unsplash.com/@your-username-3",
+      "posted_date": "2023-09-25",
+      "reading_time": 30,
       "hashtags": ["web development", "HTML", "CSS"]
     },
     {
@@ -34,9 +34,9 @@
       "cover": "https://i.ibb.co/P91c2vS/76069623.webp",
       "title": "The Cybersecurity Handbook",
       "author": "David Johnson",
-      "author-img": "https://unsplash.com/@your-username-4",
-      "posted date": "2023-09-20",
-      "reading time": 25,
+      "author_img": "https://unsplash.com/@your-username-4",
+      "posted_date": "2023-09-20",
+      "reading_time": 25,
       "hashtags": ["cybersecurity", "online safety", "hacking"]
     },
     {
@@ -44,9 +44,9 @@
       "cover": "https://i.ibb.co/hVhb67J/0x0.webp",
       "title": "The Future of Technology: Trends to Watch",
       "author": "Emily Brown",
-      "author-img": "https://unsplash.com/@your-username-5",
-      "posted date": "2023-09-15",
-      "reading time": 40,
+      "author_img": "https://unsplash.com/@your-username-5",
+      "posted_date": "2023-09-15",
+      "reading_time": 40,
       "hashtags": ["tech trends", "innovation", "emerging tech"]
     },
     {
@@ -54,9 +54,9 @@
       "cover": "https://i.ibb.co/F6zPjvk/Code-Crypt-Deciphering-the-Ancient-Scripts-with-Python.jpg",
       "title": "Coding Archaeology: Exploring Ancient Code",
       "author": "Michael Clark",
-      "author-img": "https://unsplash.com/@your-username-6",
-      "posted date": "2023-09-10",
-      "reading time": 18,
+      "author_img": "https://unsplash.com/@your-username-6",
+      "posted_date": "2023-09-10",
+      "reading_time": 18,
       "hashtags": ["coding", "programming", "archeology"]
     },
     {
@@ -64,9 +64,9 @@
       "cover": "https://i.ibb.co/RgpzdDb/data-science-projects.jpg",
       "title": "Data Science for All Seasons",
       "author": "Sarah Green",
-      "author-img": "https://unsplash.com/@your-username-7",
-      "posted date": "2023-09-05",
-      "reading time": 22,
+      "author_img": "https://unsplash.com/@your-username-7",
+      "posted_date": "2023-09-05",
+      "reading_time": 22,
       "hashtags": ["data science", "analytics", "big data"]
     },
     {
@@ -74,9 +74,9 @@
       "cover": "https://i.ibb.co/9yKz38F/thumb-gettyimages-829563232.webp",
       "title": "Tech Trends of Tomorrow",
       "author": "Robert Williams",
-      "author-img": "https://unsplash.com/@your-username-8",
-      "posted date": "2023-09-01",
-      "reading time": 15,
+      "author_img": "https://unsplash.com/@your-username-8",
+      "posted_date": "2023-09-01",
+      "reading_time": 15,
       "hashtags": ["technology", "future tech", "innovation"]
     },
     {
@@ -84,9 +84,9 @@
       "cover": "https://i.ibb.co/R6DsMDg/AI-20230215-new-module-1200x580.jpg",
       "title": "Mindful Coding: Balancing Health and Tech",
       "author": "Jennifer Lee",
-      "author-img": "https://unsplash.com/@your-username-9",
-      "posted date": "2023-08-28",
-      "reading time": 35,
+      "author_img": "https://unsplash.com/@your-username-9",
+      "posted_date": "2023-08-28",
+      "reading_time": 35,
       "hashtags": ["coding", "health", "mindfulness"]
     }
   ]
