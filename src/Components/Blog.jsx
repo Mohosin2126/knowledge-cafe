@@ -2,11 +2,11 @@
 
 
 
-const Blog = ({blog,handledBookmarks}) => {
+const Blog = ({blog,handledBookmarks,handledReadingTime}) => {
     const {id,cover,title,author,author_img,posted_date,reading_time,hashtags}=blog
    
     return (
-        <div className="bg-base-100 w-[600px] bg-base-100 shadow-xl mt-10 p-2 border-2 rounded   ">
+        <div className="bg-base-100 w-[600px] bg-base-100 shadow-xl mt-10 p-2 border-2 rounded  space-y-4 rounded-md">
             <img className="w-[600px]" src={cover} alt="" />
             <div className="flex justify-between">
                 <div className="flex  justify-center items-center gap-2">
@@ -30,6 +30,7 @@ const Blog = ({blog,handledBookmarks}) => {
                    hashtags.map((hash,idx)=> <span className="gap-5"  key={idx}><a href="">#{hash}</a></span> )
                 }
             </p>
+            <button onClick={handledReadingTime}><p className="text-red-500 ">mark as read</p></button>
         </div>
     );
 };
