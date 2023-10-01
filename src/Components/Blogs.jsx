@@ -14,10 +14,12 @@ const Blogs = () => {
     
     return (
         <div className="w-2/3">
-            <h1>Blogs :{blogs.length}</h1>
-           {
+            <h1 className="text-center text-2xl font-bold mt-6 ">Blogs :{blogs.length}</h1>
+          
+          {
             blogs.map(blog=><Blog blog={blog} key={blog.id}></Blog>)
            }
+         
         </div>
     );
 };
