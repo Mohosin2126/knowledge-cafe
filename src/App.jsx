@@ -8,7 +8,8 @@ import Header from './Components/Header'
 function App() {
  const [bookmarks,setBookmarks]=useState([])
  const handledBookmarks=(blog)=>{
-  console.log("ki beh ki khobor tor ")
+const newBookmarks=[...bookmarks,blog]
+setBookmarks(newBookmarks)
  }
 
   return (
@@ -18,7 +19,7 @@ function App() {
      <Header></Header>
      <div className='flex '>
      <Blogs handledBookmarks={handledBookmarks}></Blogs>
-     <Bookmarks></Bookmarks>
+     <Bookmarks bookmarks={bookmarks}></Bookmarks>
      </div>
      
      </div>

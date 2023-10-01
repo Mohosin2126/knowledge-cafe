@@ -1,4 +1,4 @@
-/* eslint-disable react/prop-types */
+
 
 
 
@@ -21,7 +21,7 @@ const Blog = ({blog,handledBookmarks}) => {
                 </div>
                 <div className="flex justify-center items-center gap-5">
 <p>{reading_time} min read </p>
-<img onClick={handledBookmarks}   src="https://i.ibb.co/3083XPy/Frame.png" alt="" />
+<img onClick={()=>handledBookmarks(blog)}   src="https://i.ibb.co/3083XPy/Frame.png" alt="" />
                 </div>
             </div>
             <p className="text-4xl font-semibold ">{title}</p>
@@ -33,5 +33,6 @@ const Blog = ({blog,handledBookmarks}) => {
         </div>
     );
 };
+
 
 export default Blog;

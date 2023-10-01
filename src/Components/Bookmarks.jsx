@@ -1,6 +1,7 @@
 
 
-const Bookmarks = () => {
+const Bookmarks = ({bookmarks}) => {
+   
     return (
         <div className="w-1/3">
             <h1>hii there this is me 
