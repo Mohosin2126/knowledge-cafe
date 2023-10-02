@@ -13,7 +13,7 @@ const Blogs = ({handledBookmarks ,handledReadingTime}) => {
     ,[])
     
     return (
-        <div className="w-2/3">
+        <div className="w-2/3 ">
             <h1 className="text-2xl font-bold text-center mt-10">Blogs: <span className="text-red-500"> {blogs.length}</span></h1>
           
           {

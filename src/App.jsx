@@ -27,7 +27,7 @@ setBookmarks(newBookmarks)
    
      <div className=' max-w-screen-xl mx-auto  px-8 lg:px-24 py-5 my-10 '>
      <Header></Header>
-     <div className='flex '>
+     <div className='lg:flex lg:jusity-center '>
      <Blogs handledBookmarks={handledBookmarks} handledReadingTime={handledReadingTime}></Blogs>
      <Bookmarks bookmarks={bookmarks} readingTime={readingTime}></Bookmarks>
      </div>
