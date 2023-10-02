@@ -30,7 +30,7 @@ const Blog = ({blog,handledBookmarks,handledReadingTime}) => {
                    hashtags.map((hash,idx)=> <span className="gap-5"  key={idx}><a href="">#{hash}</a></span> )
                 }
             </p>
-            <button onClick={handledReadingTime}><p className="text-red-500 ">mark as read</p></button>
+            <button onClick={()=>handledReadingTime(reading_time)}><p className="text-red-500 ">mark as read</p></button>
         </div>
     );
 };

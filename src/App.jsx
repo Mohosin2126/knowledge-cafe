@@ -7,15 +7,18 @@ import Header from './Components/Header'
 
 function App() {
  const [bookmarks,setBookmarks]=useState([])
- const [readingTime,setReadingTime]=useState()
+ const [readingTime,setReadingTime]=useState(0)
  const handledBookmarks=(blog)=>{
 const newBookmarks=[...bookmarks,blog]
 setBookmarks(newBookmarks)
  }
 
  const handledReadingTime=time=>{
-  console.log("hii there ")
+  const newReadingTime =readingTime + time 
+  setReadingTime(newReadingTime )
+ 
  }
+ 
   return (
     <>
    
@@ -23,7 +26,7 @@ setBookmarks(newBookmarks)
      <Header></Header>
      <div className='flex '>
      <Blogs handledBookmarks={handledBookmarks} handledReadingTime={handledReadingTime}></Blogs>
-     <Bookmarks bookmarks={bookmarks}></Bookmarks>
+     <Bookmarks bookmarks={bookmarks} readingTime={readingTime}></Bookmarks>
      </div>
      
      </div>
